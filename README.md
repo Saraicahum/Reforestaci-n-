@@ -139,7 +139,7 @@
         <p>Una aventura creativa hacia un futuro sostenible en nuestra comunidad</p>
     </header>
 
-    <nav>
+<nav>
         <a href="#intro">Introducción</a>
         <a href="#agenda">Agenda 2030</a>
         <a href="#cuidado">Cuidado y Justicia</a>
@@ -152,34 +152,34 @@
         <a href="#conclusion">Conclusión</a>
     </nav>
 
-    <main>
+  <main>
         <article id="intro">
             <h2>Introducción al Proyecto</h2>
             <p>En nuestra comunidad, nos hemos embarcado en un emocionante proyecto de reforestación para transformar nuestro parque en un oasis verde. Con la participación de vecinos, voluntarios y expertos, estamos plantando árboles nativos, creando senderos ecológicos y educando sobre la importancia de la naturaleza. Este blog explora cómo este esfuerzo se alinea con metas globales de sostenibilidad. ¡Únete a nosotros en esta aventura verde!</p>
         </article>
 
-        <article id="agenda">
+<article id="agenda">
             <h2>La Agenda 2030 de la ONU</h2>
             <p>La Agenda 2030 de la ONU establece una visión global hacia la sostenibilidad económica, social y ambiental mediante 17 Objetivos de Desarrollo Sostenible (ODS), que buscan promover el bienestar humano mientras protegen el planeta. La degradación ambiental, el cambio climático y el agotamiento de recursos amenazan los avances sociales y económicos; de mantenerse los patrones actuales, para 2050 serían necesarios casi tres planetas para sostener el nivel de vida global.</p>
         </article>
 
-        <article id="cuidado">
+<article id="cuidado">
             <h2>Cuidado del Medio Ambiente y Justicia Social</h2>
             <p>Un medio ambiente sano garantiza agua potable, alimentos, aire limpio y protección ante desastres, elementos esenciales para la vida humana y la dignidad. Los ODS 13 y 15 promueven la acción climática y la conservación de ecosistemas mediante energías renovables, reforestación y reducción de emisiones, mitigando daños ecológicos y riesgos económicos. La justicia ambiental subraya que los impactos ambientales afectan más a las comunidades vulnerables, intensificando pobreza y desigualdad, por lo que las políticas deben integrar equidad y derechos sociales.</p>
         </article>
 
-        <article id="ods">
+<article id="ods">
             <h2>ODS Clave y Acciones</h2>
             <ul>
                 <li>ODS 6 (Agua limpia y saneamiento): Garantizar acceso equitativo al agua y saneamiento mediante tratamiento de aguas, conservación de cuencas y educación en uso eficiente del recurso.</li>
                 <li>ODS 11 (Ciudades sostenibles): Promover transporte limpio, infraestructura verde y viviendas dignas, reduciendo riesgos urbanos y mejorando calidad de vida.</li>
-                <li>ODS 12 (Producción y consumo responsables): Fomentar consumo sostenible, reciclaje y economía circular, vinculando hábitos responsables con equidad social.</li>
+       <li>ODS 12 (Producción y consumo responsables): Fomentar consumo sostenible, reciclaje y economía circular, vinculando hábitos responsables con equidad social.</li>
                 <li>ODS 13 (Acción por el clima): Implementar energías renovables, eficiencia energética, reforestación y sistemas de alerta temprana ante desastres, asegurando resiliencia global.</li>
             </ul>
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Sustainable_Development_Goals.svg" alt="Infográfico de los Objetivos de Desarrollo Sostenible (ODS)">
         </article>
 
-        <article id="implementacion">
+<article id="implementacion">
             <h2>Implementación y Actores</h2>
             <p>Avanzar en sostenibilidad requiere acciones concretas: energías limpias, gestión integral del agua, planificación urbana, educación ambiental y políticas públicas. La cooperación multisectorial es clave:</p>
             <ul>
@@ -190,11 +190,11 @@
             </ul>
         </article>
 
-        <article id="plantas">
+<article id="plantas">
             <h2>Nuestras Plantas Estrella para la Reforestación</h2>
             <p>Para nuestro proyecto de reforestación, hemos seleccionado tres especies clave que no solo embellecen nuestro parque, sino que también se adaptan perfectamente al clima de Yucatán y promueven la sostenibilidad ambiental. Conoce más sobre estas plantas:</p>
             
-            <h3>Lirio de Lluvia (Zephyranthes candida)</h3>
+<h3>Lirio de Lluvia (Zephyranthes candida)</h3>
             <p><strong>Nombres comunes:</strong> Azucenita del río, Azucenita blanca, Lirio de hadas, Flor de céfiro, Brujitas, Duendes blancos.</p>
             <p>El lirio de lluvia es una planta bulbosa perenne de la familia Amaryllidaceae. Sus hojas verdes dan lugar a flores blancas en forma de copa que florecen tras las lluvias de verano y otoño, formando densas alfombras floridas. Nativa del Cono Sur, se adapta bien a Yucatán con riego moderado.</p>
             <ul>
@@ -207,7 +207,7 @@
             </ul>
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Zephyranthes_candida.jpg" alt="Lirio de lluvia (Zephyranthes candida) en floración">
 
-            <h3>Hibisco o Flor de Jamaica (Hibiscus rosa-sinensis)</h3>
+<h3>Hibisco o Flor de Jamaica (Hibiscus rosa-sinensis)</h3>
             <p><strong>Nombres comunes:</strong> Tulipán mexicano, Flor de Jamaica, Rosa de China, Cayena, Cardenales, Amapola, Mar pacífico.</p>
             <p>El hibisco es un arbusto perennifolio de la familia Malváceas, originario de Asia tropical. Crece hasta 3 m y produce flores grandes y coloridas (rojo, rosa, amarillo, blanco) casi todo el año. Es perfecto para jardines tropicales y muy común en Yucatán.</p>
             <ul>
@@ -220,7 +220,7 @@
             </ul>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Hibiscus_rosa_-sinensis.jpg" alt="Hibisco (Hibiscus rosa-sinensis) en flor">
 
-            <h3>Palmera de Molino (Trachycarpus fortunei)</h3>
+ <h3>Palmera de Molino (Trachycarpus fortunei)</h3>
             <p><strong>Nombres comunes:</strong> Palmera de molino, Palma de molino, Palmera de Fortune, Palmera de cáñamo china.</p>
             <p>La palmera china de abanico es una palma robusta de Asia, con tronco fibroso y hojas palmadas en forma de abanico. Alcanza hasta 12 m en su hábitat natural, pero en cultivo es más baja. Produce flores amarillas y frutos negro-azulados.</p>
             <ul>
@@ -233,12 +233,12 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/TrachycarpusFortunei.jpg" alt="Palmera de molino (Trachycarpus fortunei)">
         </article>
 
-        <article id="vital">
+<article id="vital">
             <h2>El Cuidado del Medio Ambiente es Vital</h2>
             <p>El cuidado del medio ambiente es vital porque sustenta la vida, provee recursos naturales esenciales como agua y aire, y garantiza la salud humana al reducir la contaminación y los desastres climáticos. Preservar los ecosistemas es una responsabilidad para nuestra generación y las futuras, lo que implica adoptar prácticas de consumo responsable, gestión de residuos y eficiencia en el uso de los recursos para un futuro sostenible.</p>
         </article>
 
-        <article id="importancia">
+<article id="importancia">
             <h2>¿Por Qué es Importante Cuidar el Medio Ambiente?</h2>
             <ul>
                 <li>Soporte de la vida: El medio ambiente nos proporciona todo lo necesario para sobrevivir: alimento, agua, aire puro y un hogar.</li>
@@ -250,7 +250,7 @@
             </ul>
         </article>
 
-        <article id="acciones">
+<article id="acciones">
             <h2>Acciones para Cuidar el Medio Ambiente</h2>
             <ul>
                 <li>Consumo responsable: Reducir el uso de productos de un solo uso, preferir los productos biodegradables y comprar de forma consciente.</li>
@@ -262,13 +262,13 @@
             </ul>
         </article>
 
-        <article id="conclusion">
+<article id="conclusion">
             <h2>Conclusión</h2>
             <p>Los ODS integran desarrollo social y protección ambiental. La sostenibilidad no es un lujo, sino condición para la equidad: acceso al agua, vivienda y seguridad alimentaria dependen de ecosistemas saludables y clima estable. Implementar los ODS requiere acciones concretas y cooperación global; solo así será posible avanzar hacia un mundo más justo y sostenible, cumpliendo la visión de la Agenda 2030 de armonizar crecimiento económico, inclusión social y conservación del medio ambiente.</p>
         </article>
     </main>
 
-    <footer>
+<footer>
         <p>¡Únete al proyecto y haz la diferencia hoy! 🌱 Contacto: comunidad@reforestacionparque.com</p>
     </footer>
 </body>
